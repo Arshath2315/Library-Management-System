@@ -1,0 +1,28 @@
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\library\library\bin\Debug\net6.0\library.exe
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\library\library\bin\Debug\net6.0\library.deps.json
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\library\library\bin\Debug\net6.0\library.runtimeconfig.json
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\library\library\bin\Debug\net6.0\library.dll
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\library\library\bin\Debug\net6.0\library.pdb
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\library\library\obj\Debug\net6.0\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\library\library\obj\Debug\net6.0\library.AssemblyInfoInputs.cache
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\library\library\obj\Debug\net6.0\library.AssemblyInfo.cs
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\library\library\obj\Debug\net6.0\library.csproj.CoreCompileInputs.cache
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\library\library\obj\Debug\net6.0\library.dll
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\library\library\obj\Debug\net6.0\refint\library.dll
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\library\library\obj\Debug\net6.0\library.pdb
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\library\library\obj\Debug\net6.0\library.genruntimeconfig.cache
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\library\library\obj\Debug\net6.0\ref\library.dll
+C:\Users\arsha\OneDrive\Documents\Library Management system\obj\Debug\net6.0\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsha\OneDrive\Documents\Library Management system\obj\Debug\net6.0\library.AssemblyInfoInputs.cache
+C:\Users\arsha\OneDrive\Documents\Library Management system\obj\Debug\net6.0\library.AssemblyInfo.cs
+C:\Users\arsha\OneDrive\Documents\Library Management system\obj\Debug\net6.0\library.csproj.CoreCompileInputs.cache
+C:\Users\arsha\OneDrive\Documents\Library Management system\obj\Debug\net6.0\library.dll
+C:\Users\arsha\OneDrive\Documents\Library Management system\obj\Debug\net6.0\refint\library.dll
+C:\Users\arsha\OneDrive\Documents\Library Management system\obj\Debug\net6.0\library.pdb
+C:\Users\arsha\OneDrive\Documents\Library Management system\bin\Debug\net6.0\library.exe
+C:\Users\arsha\OneDrive\Documents\Library Management system\bin\Debug\net6.0\library.deps.json
+C:\Users\arsha\OneDrive\Documents\Library Management system\bin\Debug\net6.0\library.runtimeconfig.json
+C:\Users\arsha\OneDrive\Documents\Library Management system\bin\Debug\net6.0\library.dll
+C:\Users\arsha\OneDrive\Documents\Library Management system\bin\Debug\net6.0\library.pdb
+C:\Users\arsha\OneDrive\Documents\Library Management system\obj\Debug\net6.0\library.genruntimeconfig.cache
+C:\Users\arsha\OneDrive\Documents\Library Management system\obj\Debug\net6.0\ref\library.dll
